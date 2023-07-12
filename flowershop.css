@@ -20,11 +20,48 @@ body
   gap: 10px;
 
 }
-.nav
+.banner
 {
   display: flow-root;
   justify-content: space-between;
   margin: 10px 50px 10px 50px;
   align-items: center;
 
+}
+.banner{
+  display: flex;
+  padding: 30 px 30px 30px 150px;
+  align-items: center;
+  justify-content: space-between;
+}
+.banner.rose 
+{
+  padding: 50px 240px 4017px 1047px;
+  width: 635px;
+  height: 800px;
+  flex-shrink: 0;
+}
+
+.header{
+  background-color:rgba(229, 84, 115, 0.10);
+  width: 100%;
+  height: 845px;
+}
+.midbody
+{
+  text-align: center;
+
+}
+.title2{
+  color: #272727;
+text-align: center;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.flowertree
+{
+  
+  border-radius: 70px 0px 0px 0px;
 }
