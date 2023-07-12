@@ -1,0 +1,30 @@
+body
+{
+  font-family: 'Lato', sans-serif;
+}
+.heading
+{
+
+  justify-content: center;
+}
+.button
+{
+  text-decoration: none;
+  color: #fcfcfc;
+  background-color: #E55473;
+  border-radius: 8px;
+  border: 0;
+  display: inline-flex;
+  padding: 20px 43px;
+  align-items: flex-start;
+  gap: 10px;
+
+}
+.nav
+{
+  display: flow-root;
+  justify-content: space-between;
+  margin: 10px 50px 10px 50px;
+  align-items: center;
+
+}
